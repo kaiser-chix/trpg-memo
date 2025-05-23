@@ -111,7 +111,7 @@ PT メンバーで簡単な依頼をこなしたあと<br>
 ⇒ 探索する
 
 ## ◆ 拠点跡
-[拠点跡](/HinaDoraSS/img/mapKyotenAto.png "拠点跡のマップ")
+![拠点跡](/HinaDoraSS/img/mapKyotenAto.png "拠点跡のマップ")
 ### 1.
 
 ### 2.
