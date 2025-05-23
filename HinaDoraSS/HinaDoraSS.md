@@ -57,8 +57,9 @@ PT メンバーで簡単な依頼をこなしたあと<br>
 #### 戦闘（1 戦目）
 
 魔物知識 ⇒ 成功<br>
-[ウルフ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=xvvvDZ) 　 x2
-[パックサブリーダー](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=skRkNd)　 x1<br>
+
+- [ウルフ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=xvvvDZ) 　 x2<br>
+- [パックサブリーダー](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=skRkNd)　 x1
 
 先制 ⇒ 成功
 
@@ -85,9 +86,10 @@ PT メンバーで簡単な依頼をこなしたあと<br>
 #### 戦闘（2 戦目）
 
 魔物知識 ⇒ 成功<br>
-[ウルフ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=xvvvDZ)　 x2<br>
-[ホッグフッド](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=DDMI4l)　 x1<br>
-[アローフッド](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=LRMqRV)　 x2<br>
+
+- [ウルフ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=xvvvDZ)　 x2<br>
+- [ホッグフッド](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=DDMI4l)　 x1<br>
+- [アローフッド](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=LRMqRV)　 x2<br>
 
 先制 ⇒ 成功
 
