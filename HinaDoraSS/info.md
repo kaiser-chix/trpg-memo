@@ -12,8 +12,8 @@
   - りありす
     - [グレン](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=y7ELQf)
 
-# 開催場所
+# ◆開催場所
 [ココフォリア](https://ccfolia.com/rooms/_Q8ArLuDZ)
 
-# 日程調整
+# ◆日程調整
 [調整さん](https://chouseisan.com/s?h=24650b9c895c4fce918ed4e5d5dafc82)
