@@ -58,7 +58,7 @@ PT メンバーで簡単な依頼をこなしたあと<br>
 
 魔物知識 ⇒ 成功<br>
 
-- [ウルフ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=xvvvDZ) 　 x2<br>
+- [ウルフ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=xvvvDZ)　 x2<br>
 - [パックサブリーダー](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=skRkNd)　 x1
 
 先制 ⇒ 成功
@@ -69,8 +69,8 @@ PT メンバーで簡単な依頼をこなしたあと<br>
 ##### ◆ 戦利品（第 1 戦）
 
 - 狼の皮（20G/赤 B）　 x3<br>
-- 上質な狼の皮（50G/赤 B） x1<br>
-- きれいな狼の皮（100G/赤金 A） x1
+- 上質な狼の皮（50G/赤 B）　 x1<br>
+- きれいな狼の皮（100G/赤金 A）　 x1
 
 ##### ◆ 特別報酬
 
