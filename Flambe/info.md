@@ -9,13 +9,13 @@
   - かいざー
     - [オズワルド](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=Ok2idl)
   - shilvarion
-    - [フィルティニア・シュヴァンツ](hhttps://yutorize.2-d.jp/ytsheet/sw2.5/?id=tUBkSk)
+    - [フィルティニア・シュヴァンツ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=tUBkSk)
   - 46usagi
     - [セルフィア・ルビアストス](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=6277Q2)
   - Noa
     - [イオ・ライネス](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=YBqYjN)
   - むむがみ
-    - [ドレー](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=2fp40W)
+    - [アル＝ヴァシュタール](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=2fp40W)
   - リューズ
     - [ルーナ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=Mf2DR4)
 
