@@ -2,7 +2,7 @@
 
 # ◆参加者
 - GM
-  - シルヴァリオン
+  - りありす
 - PL
   - アルト
     - [ロボジャック](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=XWR8nz)
