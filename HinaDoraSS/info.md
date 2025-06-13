@@ -5,7 +5,7 @@
   - シルヴァリオン
 - PL
   - かいざー
-    - [アレクサンダー・オースティン](https://trpg-yarouze.sakura.ne.jp/ytsheet2/sw2.5/?id=46HSBW)
+    - [アレクサンダー・オースティン](https://trpg.x0.com/ytsheet2/sw2.5/?id=46HSBW)
   - しろうさぎ
     - [ドルチェ・エルフェーション](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=1AvhB7)
   - むむがみ
