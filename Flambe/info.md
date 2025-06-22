@@ -5,7 +5,7 @@
   - りありす
 - PL
   - アルト
-    - [ロボジャック](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=XWR8nz)
+    - [ロボジャック](https://trpg.x0.com/ytsheet2/sw2.5/?id=6HR4Mv)
   - かいざー
     - [オズワルド](https://trpg.x0.com/ytsheet2/sw2.5/?id=oapHdG)
   - shilvarion
