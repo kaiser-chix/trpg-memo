@@ -7,7 +7,7 @@
   - アルト
     - [ロボジャック](https://trpg.x0.com/ytsheet2/sw2.5/?id=6HR4Mv)
   - かいざー
-    - [オズワルド](https://trpg.x0.com/ytsheet2/sw2.5/?id=oapHdG)
+    - [オズ](https://trpg.x0.com/ytsheet2/sw2.5/?id=oapHdG)
   - shilvarion
     - [フィルティニア・シュヴァンツ](https://trpg.x0.com/ytsheet2/sw2.5/?id=sWuCS3)
   - 46usagi
