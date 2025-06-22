@@ -11,13 +11,13 @@
   - shilvarion
     - [フィルティニア・シュヴァンツ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=tUBkSk)
   - 46usagi
-    - [セルフィア・ルビアストス](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=6277Q2)
+    - [セルフィア・ルビアストス](https://trpg.x0.com/ytsheet2/sw2.5/?id=0g0iwY)
   - Noa
     - [イオ・ライネス](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=YBqYjN)
   - むむがみ
     - [アル＝ヴァシュタール](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=2fp40W)
   - リューズ
-    - [ルーナ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=Mf2DR4)
+    - [ルーナ](https://trpg.x0.com/ytsheet2/sw2.5/?id=TkqWa8)
 
 # ◆開催場所
 [ココフォリア](https://ccfolia.com/rooms/a8o2Ua7lR)
