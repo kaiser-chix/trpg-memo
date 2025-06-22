@@ -9,7 +9,7 @@
   - かいざー
     - [オズワルド](https://trpg.x0.com/ytsheet2/sw2.5/?id=oapHdG)
   - shilvarion
-    - [フィルティニア・シュヴァンツ](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=tUBkSk)
+    - [フィルティニア・シュヴァンツ](https://trpg.x0.com/ytsheet2/sw2.5/?id=sWuCS3)
   - 46usagi
     - [セルフィア・ルビアストス](https://trpg.x0.com/ytsheet2/sw2.5/?id=0g0iwY)
   - Noa
