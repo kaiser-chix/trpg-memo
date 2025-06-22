@@ -13,7 +13,7 @@
   - 46usagi
     - [セルフィア・ルビアストス](https://trpg.x0.com/ytsheet2/sw2.5/?id=0g0iwY)
   - Noa
-    - [イオ・ライネス](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=YBqYjN)
+    - [イオ・ライネス](https://trpg.x0.com/ytsheet2/sw2.5/?id=YPOGJQ)
   - むむがみ
     - [アル＝ヴァシュタール](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=2fp40W)
   - リューズ
