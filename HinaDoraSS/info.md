@@ -11,9 +11,9 @@
     - [ドルチェ・エルフェーション](https://trpg.x0.com/ytsheet2/sw2.5/?id=NAMV91)
   - むむがみ
     - [レグナ・フォゥルス](https://trpg.x0.com/ytsheet2/sw2.5/?id=9TKw5G)
-      - [うまごん(ホース)](https://trpg.x0.com/ytsheet2/sw2.5/?id=Lmrequ)
+      - [うまごん(レジェンドホース)](https://trpg.x0.com/ytsheet2/sw2.5/?id=Lmrequ)
   - りありす
-    - [グレン](https://trpg.x0.com/ytsheet2/sw2.5/?id=9TKw5G)
+    - [グレン](https://trpg.x0.com/ytsheet2/sw2.5/?id=E70Ucx)
 
 # ◆開催場所
 [ココフォリア](https://ccfolia.com/rooms/_Q8ArLuDZ)
