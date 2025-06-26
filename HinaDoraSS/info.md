@@ -6,13 +6,14 @@
 - PL
   - かいざー
     - [アレクサンダー・オースティン](https://trpg.x0.com/ytsheet2/sw2.5/?id=46HSBW)
+      - [ティルグリス](https://trpg.x0.com/ytsheet2/sw2.5/?id=fDwuU4)
   - しろうさぎ
-    - [ドルチェ・エルフェーション](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=1AvhB7)
+    - [ドルチェ・エルフェーション](https://trpg.x0.com/ytsheet2/sw2.5/?id=NAMV91)
   - むむがみ
-    - [レグナ・フォゥルス](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=fxmvWO)
-      - [うまごん(ホース)](https://kimt.sakura.ne.jp/ytsheet/sw2.5/?id=XF77Xn)
+    - [レグナ・フォゥルス](https://trpg.x0.com/ytsheet2/sw2.5/?id=9TKw5G)
+      - [うまごん(ホース)](https://trpg.x0.com/ytsheet2/sw2.5/?id=Lmrequ)
   - りありす
-    - [グレン](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=y7ELQf)
+    - [グレン](https://trpg.x0.com/ytsheet2/sw2.5/?id=9TKw5G)
 
 # ◆開催場所
 [ココフォリア](https://ccfolia.com/rooms/_Q8ArLuDZ)
