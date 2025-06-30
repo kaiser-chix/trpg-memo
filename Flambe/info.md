@@ -15,7 +15,7 @@
   - Noa
     - [イオ・ライネス](https://trpg.x0.com/ytsheet2/sw2.5/?id=YPOGJQ)
   - むむがみ
-    - [アル＝ヴァシュタール](https://yutorize.2-d.jp/ytsheet/sw2.5/?id=2fp40W)
+    - [アル＝ヴァシュタール](https://trpg.x0.com/ytsheet2/sw2.5/?id=L3HCGV)
   - リューズ
     - [ルーナ](https://trpg.x0.com/ytsheet2/sw2.5/?id=TkqWa8)
 
