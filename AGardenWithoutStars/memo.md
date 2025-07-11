@@ -55,3 +55,4 @@
 > ![タマレ別邸](/AGardenWithoutStars/img/mapTamareBettei.png "タマレ別邸")
 - 依頼を受諾する
 - 受諾の際、なるべく家を壊さないで欲しいと念を押された
+- 王都内で各自買い物をした
