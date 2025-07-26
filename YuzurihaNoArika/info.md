@@ -7,7 +7,7 @@
   - かいざー
     - [鈴木 仁](https://iachara.com/view/12167609)
   - 4ohn
-    - [メリッサ・ヘインケル](https://trpg.x0.com/ytsheet2/sw2.5/?id=JSFn2p)
+    - [オウムアムア](https://iachara.com/view/1216745)
   - しろうさぎ
     - [吉田 羅美伊](https://iachara.com/view/12167788)
   - むむがみ
