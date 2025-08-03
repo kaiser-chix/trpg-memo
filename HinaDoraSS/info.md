@@ -8,6 +8,7 @@
     - [アレクサンダー・オースティン](https://trpg.x0.com/ytsheet2/sw2.5/?id=46HSBW)
       - [ティルグリス](https://trpg.x0.com/ytsheet2/sw2.5/?id=fDwuU4)
       - [グリフォン](https://trpg.x0.com/ytsheet2/sw2.5/?id=w6xLz4)
+      - [ドラゴネット](https://trpg.x0.com/ytsheet2/sw2.5/?id=AoRklp)
   - しろうさぎ
     - [ドルチェ・エルフェーション](https://trpg.x0.com/ytsheet2/sw2.5/?id=NAMV91)
   - むむがみ
