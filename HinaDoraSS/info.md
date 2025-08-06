@@ -14,6 +14,7 @@
   - むむがみ
     - [レグナ・フォゥルス](https://trpg.x0.com/ytsheet2/sw2.5/?id=9TKw5G)
       - [うまごん(レジェンドホース)](https://trpg.x0.com/ytsheet2/sw2.5/?id=Lmrequ)
+        - [アルスヴィズ](https://trpg.x0.com/ytsheet2/sw2.5/?id=Atudef)
   - りありす
     - [グレン](https://trpg.x0.com/ytsheet2/sw2.5/?id=E70Ucx)
 
