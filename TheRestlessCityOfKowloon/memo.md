@@ -18,6 +18,9 @@
   - 頼れ、と言われたと伝える
   - 最近4人PTの新参者が行方不明になったらしい
   - そのうちの1人は神官服を着ていたのを覚えている
+  - 〈付近の地図〉をもらった！
+  - ![付近の地図](/TheRestlessCityOfKowloon/img/c1_map1.png)
+  - 5,000 G の報酬を掲示された！
 
 ### ◉ 九龍城塞の探索
 - マップは[こちら](https://docs.google.com/spreadsheets/d/1Sge9AZEJw7i-XSrFZQYc8BxFgdprQ0uoL-oijxtVY88/edit?gid=0#gid=0)
