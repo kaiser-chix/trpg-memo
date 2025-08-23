@@ -12,7 +12,6 @@
     - [アカネ・フレアリーフ](https://trpg.x0.com/ytsheet2/sw2.5/?id=CpDFR2)
   - りゅーず
     - [ユティナ](https://trpg.x0.com/ytsheet2/sw2.5/?id=uLSYzp)
-    -
 # ◆開催場所
 - [ココフォリア](https://ccfolia.com/rooms/IDWt9yOj1)
 # ◆日程調整
