@@ -233,4 +233,4 @@
       - その情報を持つ人物が中央街にいるらしい
       - 訪ねてみては？　とのこと
       - 〈付近の地図〉が更新された！
-  - ![付近の地図](/TheRestlessCityOfKowloon/img/c2_map1.png)
+      - ![付近の地図](/TheRestlessCityOfKowloon/img/c2_map1.png)
