@@ -17,7 +17,7 @@
   - むむがみ
     - [アル＝ヴァシュタール](https://trpg.x0.com/ytsheet2/sw2.5/?id=L3HCGV)
   - リューズ
-    - [ルーナ](https://trpg.x0.com/ytsheet2/sw2.5/?id=TkqWa8)
+    - [ルーナ → ルーナリット・シュヴァンツ](https://trpg.x0.com/ytsheet2/sw2.5/?id=TkqWa8)
 
 # ◆開催場所
 [ココフォリア](https://ccfolia.com/rooms/a8o2Ua7lR)
