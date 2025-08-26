@@ -968,7 +968,7 @@
   - ロボジャック
     - 〈オーガ茸の串焼き〉 x 6本
       - 500 G
-    - ![オーガ茸の串焼き](/Flambe/img/food/food01.png)
+    - <img width="200px" src="/Flambe/img/food/food01.png">
   - オズ
     - 〈山猫のパスタ〉
       - 300 G
@@ -976,8 +976,8 @@
       - 300 G
     - 〈具だくさんソーセージスープ〉
       - 200 G
-    - ![山猫亭の料理](/Flambe/img/food/food02.jpg)
+    - <img width="200px" src="/Flambe/img/food/food02.jpg">
   - セルフィア・アル
     - 屋台の人から「宣伝に」と渡された〈たこ焼き〉
       - 0 G
-    - ![石化クラーケンのたこ焼き](/Flambe/img/food/food03.jpg)
+    - <img width="200px" src="/Flambe/img/food/food03.jpg">
