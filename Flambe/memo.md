@@ -976,7 +976,7 @@
       - 300 G
     - 〈具だくさんソーセージスープ〉
       - 200 G
-    - <img width="200px" src="/Flambe/img/food/food02.jpg">
+    - <img width="400px" src="/Flambe/img/food/food02.jpg">
   - セルフィア・アル
     - 屋台の人から「宣伝に」と渡された〈たこ焼き〉
       - 0 G
