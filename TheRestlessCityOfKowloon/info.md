@@ -20,6 +20,10 @@
 - [九龍城塞マップ](https://docs.google.com/spreadsheets/d/1Sge9AZEJw7i-XSrFZQYc8BxFgdprQ0uoL-oijxtVY88/edit?usp=sharing)
 
 # ◆ 開放された要素
+## ▼ 九龍硬貨 5 枚による成長
+- 経験点 : 1,000 点
+- 成長 : 1 回
+
 ## ▼ 九龍硬貨をアビスシャードへの代替可能
 - 九龍硬貨 1 枚を、アビスシャード 1 つとして扱い、アビス加工などが可能
 ## ▼ 《夜明武器加工》
