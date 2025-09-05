@@ -17,4 +17,4 @@
 # ◆日程調整
 - [調整さん](https://chouseisan.com/s?h=7c81ae07e55545b0baefe6a8ecccc2b5)
 # ◆MAP
-- [九龍城塞マップ](https://docs.google.com/spreadsheets//1Sge9AZEJw7i-XSrFZQYc8BxFgdprQ0uoL-oijxtVY88/edit?gid=0#gid=0>)
+- [九龍城塞マップ](https://docs.google.com/spreadsheets/d/1Sge9AZEJw7i-XSrFZQYc8BxFgdprQ0uoL-oijxtVY88/edit?usp=sharing)
