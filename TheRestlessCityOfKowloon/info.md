@@ -8,6 +8,8 @@
     - [ルシア・デ・アストリア](https://trpg.x0.com/ytsheet2/sw2.5?id=kE8XaC&v1>)
   - シルヴァリオン
     - [エレン・クローヴァ](https://trpg.x0.com/ytsheet2/sw2.5/?id=DsMEXo)
+  - しろうさぎ
+    - [ベルナデッタ](https://trpg.x0.com/ytsheet2/sw2.5/?id=HLrYsB)
   - りありす
     - [アカネ・フレアリーフ](https://trpg.x0.com/ytsheet2/sw2.5/?id=CpDFR2)
   - りゅーず
