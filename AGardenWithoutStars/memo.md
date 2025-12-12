@@ -711,7 +711,7 @@
   - 訓練参加の依頼は、昼過ぎからの参加になりそうだ
   - 収集依頼の方は物資のリストがあるそうだ
     | 採取アイテム目録       |場所|
-    | ---------------------- |---|
+    | ---------------------- |:---:|
     | 古王時代の装飾具片     | ![装飾具片](/AGardenWithoutStars/img/mapQuestAgOldKing.png "装飾具片") |
     | 旧魔動機の接合部品     | ![旧魔動機の接合部品](/AGardenWithoutStars/img/mapQuestAgOldMadoki.png "旧魔動機の接合部品") |
     | 共鳴性鉱石 / 音晶石    | ![共鳴性鉱石 / 音晶石](/AGardenWithoutStars/img/mapQuestAgKyomei.png "共鳴性鉱石 / 音晶石") |
