@@ -713,15 +713,9 @@
     | 採取アイテム目録       |場所|
     | ---------------------- |---|
     | 古王時代の装飾具片     | ![装飾具片](/AGardenWithoutStars/img/mapQuestAgOldKing.png "装飾具片") |
-    | 旧魔動機の接合部品     |
-    | 共鳴性鉱石 / 音晶石    |
-    | 古戦場の武具残骸       |
-    | 灰混じりの魔素土       |
-    | 静寂の深層水           |
+    | 旧魔動機の接合部品     | ![旧魔動機の接合部品](/AGardenWithoutStars/img/mapQuestAgOldMadoki.png "旧魔動機の接合部品") |
+    | 共鳴性鉱石 / 音晶石    | ![共鳴性鉱石 / 音晶石](/AGardenWithoutStars/img/mapQuestAgKyomei.png "共鳴性鉱石 / 音晶石") |
+    | 古戦場の武具残骸       |不明|
+    | 灰混じりの魔素土       |不明|
+    | 静寂の深層水           |不明|
     - この中で取りやすいのは古王時代の装飾具片だそうだ
-      > ![装飾具片](/AGardenWithoutStars/img/mapQuestAgOldKing.png "装飾具片")
-    - それ以外で判明してるのは以下の通り
-      - 旧魔動機の接合部品
-        > ![旧魔動機の接合部品](/AGardenWithoutStars/img/mapQuestAgOldMadoki.png "旧魔動機の接合部品")
-      - 共鳴性鉱石 / 音晶石
-        > ![共鳴性鉱石 / 音晶石](/AGardenWithoutStars/img/mapQuestAgKyomei.png "共鳴性鉱石 / 音晶石")
