@@ -2376,3 +2376,8 @@
 - フィルはセルフィアに〈ガリーナ（方鉛鉱）のブレスレット〉(https://trpg.x0.com/ytsheet2/sw2.5/?id=znzf3I)を渡した
 
 **シナリオ終了！**
+
+## ◉ 報酬
+
+### ▼ 今回の報酬
+- [〈ユーシズ冬至祭記念バッジ〉](https://trpg.x0.com/ytsheet2/sw2.5/?id=jweaT7)
