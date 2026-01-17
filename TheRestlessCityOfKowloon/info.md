@@ -1,4 +1,4 @@
-卓のメモは[こちら](https://kaiser-chix.github.io/trpg-memo/?src=https://raw.githubusercontent.com/kaiser-chix/trpg-memo/refs/heads/main/TheRestlessCityOfKowloon/memo.md)
+卓のメモは[こちら](./memo.md)
 
 # ◆ 参加者
 - GM
