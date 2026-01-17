@@ -43,7 +43,21 @@ async function fetchContent() {
         const text = await response.text();
 
         if (text !== currentHash) {
-            renderForUser(text);
+            // Determine base URL for relative assets (images)
+            let baseUrl = '';
+            try {
+                // If targetUrl is "session_sample.md", base is "./" (so relative images work relative to index.html)
+                // If targetUrl is "https://raw.../doc.md", base is "https://raw.../"
+                const urlObj = new URL(fetchUrl, document.baseURI); // use fetchUrl to respect current context, but strip params? 
+                // Actually we want the 'targetUrl' structure, not the one with ?_t=...
+                // But targetUrl is just a string. 
+                const urlForBase = new URL(targetUrl, document.baseURI);
+                baseUrl = urlForBase.href.substring(0, urlForBase.href.lastIndexOf('/') + 1);
+            } catch (e) {
+                console.error('Error determining base URL:', e);
+            }
+
+            renderForUser(text, baseUrl);
             currentHash = text;
             els.status.textContent = 'Updated';
 
@@ -70,12 +84,37 @@ async function fetchContent() {
     }
 }
 
-function renderForUser(markdown) {
+function renderForUser(markdown, baseUrl) {
     const wasAtBottom = (window.innerHeight + window.scrollY) >= document.body.offsetHeight - 50;
     const currentScrollY = window.scrollY;
 
-    // Configure marked to include IDs for headers if not default
-    // Marked guarantees ids by default on headers, so we can link to them.
+    // Custom renderer for images to support relative paths
+    const renderer = new marked.Renderer();
+    const originalImage = renderer.image;
+
+    if (baseUrl) {
+        renderer.image = function (href, title, text) {
+            if (href && !href.match(/^(http|https|data):/)) {
+                // It's a relative path, prepend base URL
+                try {
+                    href = new URL(href, baseUrl).href;
+                } catch (e) {
+                    console.warn('Failed to resolve relative image path:', href);
+                }
+            }
+            // Use marked's default image rendering but with updated href
+            // Note: marked 4.x renderer.image signature is ({href, title, text})? No, it's (href, title, text)
+            return originalImage.call(this, href, title, text);
+        };
+    }
+
+    // Configure marked
+    marked.setOptions({
+        renderer: renderer,
+        breaks: true, // Enable line breaks
+        gfm: true     // GitHub Flavored Markdown
+    });
+
     const html = DOMPurify.sanitize(marked.parse(markdown));
     els.content.innerHTML = html;
 
