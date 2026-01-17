@@ -88,34 +88,19 @@ function renderForUser(markdown, baseUrl) {
     const wasAtBottom = (window.innerHeight + window.scrollY) >= document.body.offsetHeight - 50;
     const currentScrollY = window.scrollY;
 
-    // Custom renderer for images to support relative paths
-    const renderer = new marked.Renderer();
-    const originalImage = renderer.image;
-
-    if (baseUrl) {
-        renderer.image = function (href, title, text) {
-            if (href && !href.match(/^(http|https|data):/)) {
-                // It's a relative path, prepend base URL
-                try {
-                    href = new URL(href, baseUrl).href;
-                } catch (e) {
-                    console.warn('Failed to resolve relative image path:', href);
-                }
-            }
-            // Use marked's default image rendering but with updated href
-            // Note: marked 4.x renderer.image signature is ({href, title, text})? No, it's (href, title, text)
-            return originalImage.call(this, href, title, text);
-        };
-    }
-
-    // Configure marked
-    marked.setOptions({
-        renderer: renderer,
+    // Configure marked options
+    const markedOptions = {
         breaks: true, // Enable line breaks
         gfm: true     // GitHub Flavored Markdown
-    });
+    };
 
-    const html = DOMPurify.sanitize(marked.parse(markdown));
+    if (baseUrl) {
+        markedOptions.baseUrl = baseUrl;
+    }
+
+    // Parse markdown with options
+    // Note: marked.setOptions is not used for options passed to parse() in newer versions
+    const html = DOMPurify.sanitize(marked.parse(markdown, markedOptions));
     els.content.innerHTML = html;
 
     if (wasAtBottom) {
