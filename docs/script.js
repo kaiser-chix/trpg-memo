@@ -88,19 +88,45 @@ function renderForUser(markdown, baseUrl) {
     const wasAtBottom = (window.innerHeight + window.scrollY) >= document.body.offsetHeight - 50;
     const currentScrollY = window.scrollY;
 
-    // Configure marked options
-    const markedOptions = {
-        breaks: true, // Enable line breaks
-        gfm: true     // GitHub Flavored Markdown
-    };
+    // Custom renderer for images to support relative paths
+    // Note: Marked v5+ passes an object {href, title, text} as the first argument
+    const renderer = new marked.Renderer();
 
     if (baseUrl) {
-        markedOptions.baseUrl = baseUrl;
+        renderer.image = function (href, title, text) {
+            // Handle Marked v5+ signature (href is an object)
+            if (typeof href === 'object' && href !== null) {
+                text = href.text;
+                title = href.title;
+                href = href.href;
+            }
+
+            if (href && !href.match(/^(http|https|data):/)) {
+                // It's a relative path, prepend base URL
+                try {
+                    const urlObj = new URL(href, baseUrl);
+                    href = urlObj.href;
+                } catch (e) {
+                    console.warn('Failed to resolve relative image path:', href);
+                }
+            }
+
+            // Construct the image tag manually to ensure correct attributes
+            const titleAttr = title ? ` title="${title}"` : '';
+            const altAttr = text ? ` alt="${text}"` : '';
+            return `<img src="${href}"${altAttr}${titleAttr}>`;
+        };
     }
 
-    // Parse markdown with options
-    // Note: marked.setOptions is not used for options passed to parse() in newer versions
-    const html = DOMPurify.sanitize(marked.parse(markdown, markedOptions));
+    // Configure marked
+    // Note: baseUrl option is removed/unreliable in newer marked versions, so we use the renderer
+    marked.setOptions({
+        renderer: renderer,
+        breaks: true, // Enable line breaks
+        gfm: true     // GitHub Flavored Markdown
+    });
+
+    const html = DOMPurify.sanitize(marked.parse(markdown));
     els.content.innerHTML = html;
 
     if (wasAtBottom) {
