@@ -28,11 +28,17 @@ function getTargetUrl() {
 }
 
 async function fetchContent() {
-    const url = getTargetUrl();
+    const targetUrl = getTargetUrl();
     els.status.textContent = 'Refreshing...';
 
     try {
-        const response = await fetch(url, { cache: 'no-cache' });
+        // Cache busting: Append timestamp to prevent caching by GitHub or browser
+        // Handle both absolute URLs and relative paths
+        const urlObj = new URL(targetUrl, document.baseURI);
+        urlObj.searchParams.set('_t', Date.now());
+        const fetchUrl = urlObj.toString();
+
+        const response = await fetch(fetchUrl, { cache: 'no-cache' });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const text = await response.text();
 
