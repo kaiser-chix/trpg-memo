@@ -181,7 +181,6 @@ lightbox.addEventListener("click", (e) => {
 
 function generateTOC() {
   els.tocList.innerHTML = "";
-  // ... (rest of the file match) ...
   const headers = els.content.querySelectorAll("h1, h2, h3");
 
   if (headers.length === 0) {
