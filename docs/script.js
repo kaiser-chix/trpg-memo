@@ -3,8 +3,8 @@ const CONFIG = {
     // 例: 'https://raw.githubusercontent.com/kaiser-chix/trpg-memo/main/session_logs/session01.md'
     DEFAULT_URL: 'session_sample.md',
 
-    // 自動更新の間隔（ミリ秒）: 30000 = 30秒
-    POLL_INTERVAL: 30000,
+    // 自動更新の間隔（ミリ秒）: 20000 = 20秒
+    POLL_INTERVAL: 20000,
 };
 
 let currentHash = '';
@@ -61,7 +61,7 @@ async function fetchContent() {
         if (!currentHash) {
             els.content.innerHTML = `<div class="loading" style="color:#ff6b6b">
                 Failed to load content.<br>
-                Check the URL: ${url}<br>
+                Check the URL: ${targetUrl}<br>
                 ${error.message}
             </div>`;
         }
