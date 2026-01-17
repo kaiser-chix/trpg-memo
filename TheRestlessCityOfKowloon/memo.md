@@ -1,4 +1,4 @@
-卓の基本情報は[こちら](/TheRestlessCityOfKowloon/info.md)
+卓の基本情報は[こちら](https://kaiser-chix.github.io/trpg-memo/?src=https://raw.githubusercontent.com/kaiser-chix/trpg-memo/refs/heads/main/TheRestlessCityOfKowloon/info.md)
 
 # 喧騒の街クーロン 第1回
 ## ◉ 導入
@@ -3888,5 +3888,3 @@
 |成長|3 回|
 |ガメル|10,000 G|
 |名誉点|50 点|
-
-テスト更新だよ
