@@ -1,4 +1,4 @@
-卓の基本情報は[こちら](/AGardenWithoutStars/info.md)
+卓の基本情報は[こちら](./info.md)
 
 ---
 ---
@@ -43,7 +43,7 @@
 - 依頼を受諾する
 - 住所を教えてもらった
   - 首都北部らしい。
-> ![タマレ邸](/AGardenWithoutStars/img/mapPointTamareHouse.png "タマレ邸")
+> ![タマレ邸](./img/mapPointTamareHouse.png "タマレ邸")
 
 ### ▼ タマレ邸へ
 - 老齢の女性が出迎えてくれる
@@ -52,7 +52,7 @@
   - 依頼内容を話してくれる
   - 蛮族に占拠されたという事前情報通りだ
   - 間取り図が出た。右が1F、左が2Fだ
-> ![タマレ別邸](/AGardenWithoutStars/img/mapTamareBettei.png "タマレ別邸")
+> ![タマレ別邸](./img/mapTamareBettei.png "タマレ別邸")
 - 依頼を受諾する
 - 受諾の際、なるべく家を壊さないで欲しいと念を押された
 - 王都内で各自買い物をした
@@ -712,9 +712,9 @@
   - 収集依頼の方は物資のリストがあるそうだ
     | 採取アイテム目録       |場所|
     | ---------------------- |:---:|
-    | 古王時代の装飾具片     | ![装飾具片](/AGardenWithoutStars/img/mapQuestAgOldKing.png "装飾具片") |
-    | 旧魔動機の接合部品     | ![旧魔動機の接合部品](/AGardenWithoutStars/img/mapQuestAgOldMadoki.png "旧魔動機の接合部品") |
-    | 共鳴性鉱石 / 音晶石    | ![共鳴性鉱石 / 音晶石](/AGardenWithoutStars/img/mapQuestAgKyomei.png "共鳴性鉱石 / 音晶石") |
+    | 古王時代の装飾具片     | ![装飾具片](./img/mapQuestAgOldKing.png "装飾具片") |
+    | 旧魔動機の接合部品     | ![旧魔動機の接合部品](./img/mapQuestAgOldMadoki.png "旧魔動機の接合部品") |
+    | 共鳴性鉱石 / 音晶石    | ![共鳴性鉱石 / 音晶石](./img/mapQuestAgKyomei.png "共鳴性鉱石 / 音晶石") |
     | 古戦場の武具残骸       | 不明 |
     | 灰混じりの魔素土       | 不明 |
     | 静寂の深層水           | 不明 |
