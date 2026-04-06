@@ -30,10 +30,10 @@
     - [キャンナ＝キャントナーク](https://trpg.x0.com/ytsheet2/sw2.5/?id=HFDQVB)
 
 # ◆ 開催場所
-[ココフォリア](https://ccfolia.com/rooms/eS1s3eNsM)
+- [ココフォリア](https://ccfolia.com/rooms/eS1s3eNsM)
 
 # ◆ 日程調整
-[Yarouze Scheduler](https://trpg.x0.com/scheduler)
+- [Yarouze Scheduler](https://trpg.x0.com/scheduler)
 
 # ◆ MAP・特殊ルールまとめ
 - [九龍城塞](https://docs.google.com/spreadsheets/d/1Sge9AZEJw7i-XSrFZQYc8BxFgdprQ0uoL-oijxtVY88/edit?usp=sharing)
