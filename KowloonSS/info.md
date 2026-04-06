@@ -38,6 +38,9 @@
 # ◆ MAP・特殊ルールまとめ
 - [九龍城塞](https://docs.google.com/spreadsheets/d/1Sge9AZEJw7i-XSrFZQYc8BxFgdprQ0uoL-oijxtVY88/edit?usp=sharing)
 
+# ◆ 本編メモ
+- [本編メモ](..\TheRestlessCityOfKowloon\memo.md)
+
 # ◆ 開放された要素
 ## ▼ 九龍硬貨 5 枚による成長
 - 経験点 : 1,000 点
