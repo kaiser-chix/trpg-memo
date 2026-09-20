@@ -23,19 +23,19 @@
   - 46usagi
 - PL
   - かいざー
-    - [アンジェリカ](https://trpg.x0.com/ytsheet2/sw2.5/?id=6zZ08G&v2)
+    - [アンジェリカ](https://trpg.x0.to/ytsheet2/sw2.5/?id=6zZ08G&v2)
   - 五月りん
-    - [フィーユ](https://trpg.x0.com/ytsheet2/sw2.5/?id=lsD8U3)
+    - [フィーユ](https://trpg.x0.to/ytsheet2/sw2.5/?id=lsD8U3)
   - むむがみ
-    - [ムジラ](https://trpg.x0.com/ytsheet2/sw2.5/?id=gkByRp)
+    - [ムジラ](https://trpg.x0.to/ytsheet2/sw2.5/?id=gkByRp)
   - りありす
-    - [“毒の目”](https://trpg.x0.com/ytsheet2/sw2.5/?id=Q5DAey)
+    - [“毒の目”](https://trpg.x0.to/ytsheet2/sw2.5/?id=Q5DAey)
 
 # ◆ 開催場所
 [ココフォリア](https://ccfolia.com/rooms/KcFQtv1qB)
 
 # ◆ 日程調整
-[調整さん](https://trpg.x0.com/scheduler/)
+[Kowloon Schedular](https://trpg.x0.to/scheduler/?invite=Wyr3JqNANu6UD0j5Hqc0)
 
 # ◆ 特殊ルール
 オリジナル種族「[ダークシェイプ](https://trpg.x0.com/ytsheet2/sw2.5/?id=ZCvfPE)」で固定されます。
