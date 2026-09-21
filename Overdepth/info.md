@@ -28,6 +28,7 @@
       - アビスボーン／女／17
   - hirusu
     - [ネヴィリム](https://trpg.x0.to/ytsheet2/sw2.5/?id=cnvkRl)
+      - ルーンフォーク／女／3
   - りありす
     - [スピカ](https://trpg.x0.to/ytsheet2/sw2.5/?id=DQHWez)
       - [チェンジリング](<https://github.com/kaiser-chix/trpg-memo/blob/main/TheLight%E2%80%99sName/species.md>)／女／5
