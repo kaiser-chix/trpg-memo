@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TRPG Session Log Viewer</title>
+
+    <!-- Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&family=Noto+Sans+JP:wght@400;500;700&display=swap"
+        rel="stylesheet">
+
+    <!-- Utilities -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.6/dist/purify.min.js"></script>
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="app">
+        <header class="status-bar">
+            <span id="update-status">Waiting for update...</span>
+            <span id="last-updated"></span>
+        </header>
+
+        <main class="content-container">
+            <div id="markdown-content" class="markdown-body">
+                <!-- Content will be injected here -->
+                <div class="loading">Loading session notes...</div>
+            </div>
+        </main>
+
+        <button id="toc-toggle" class="toc-btn" aria-label="Table of Contents">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none"
+                stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="8" y1="6" x2="21" y2="6"></line>
+                <line x1="8" y1="12" x2="21" y2="12"></line>
+                <line x1="8" y1="18" x2="21" y2="18"></line>
+                <line x1="3" y1="6" x2="3.01" y2="6"></line>
+                <line x1="3" y1="12" x2="3.01" y2="12"></line>
+                <line x1="3" y1="18" x2="3.01" y2="18"></line>
+            </svg>
+        </button>
+
+        <div id="toc-overlay" class="toc-overlay hidden">
+            <div class="toc-content">
+                <div class="toc-header">
+                    <h3>Table of Contents</h3>
+                    <button id="toc-close" class="close-btn">&times;</button>
+                </div>
+                <nav id="toc-list"></nav>
+            </div>
+        </div>
+
+        <div id="lightbox" class="lightbox hidden">
+            <span class="lightbox-close">&times;</span>
+            <img class="lightbox-content" id="lightbox-img">
+        </div>
+
+        <div id="settings-modal" class="hidden">
+            <div class="modal-content">
+                <h3>Settings</h3>
+                <label>
+                    Markdown Raw URL:
+                    <input type="text" id="url-input" placeholder="https://raw.githubusercontent.com/...">
+                </label>
+                <div style="margin-top: 10px; font-size: 0.8rem; color: #8b949e;">
+                    Tip: Set the default URL in script.js to avoid typing this every time.
+                </div>
+                <button id="save-settings">Save & Reload</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
